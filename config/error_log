@@ -1,0 +1,36 @@
+[16-Apr-2022 15:56:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/app.php on line 16
+[16-Apr-2022 15:58:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/cache.php on line 18
+[16-Apr-2022 16:03:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/database.php on line 18
+[16-Apr-2022 16:15:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/logging.php on line 20
+[16-Apr-2022 16:16:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/mail.php on line 16
+[16-Apr-2022 16:24:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/queue.php on line 16
+[16-Apr-2022 16:29:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/services.php on line 18
+[16-Apr-2022 16:29:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/session.php on line 21
+[16-Apr-2022 16:35:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/config/view.php on line 17

@@ -1,0 +1,4 @@
+[15-Jun-2022 09:46:58 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/app/Http/Controllers/admin/SubscriptionController.php on line 5
+[15-Jun-2022 09:47:16 UTC] PHP Fatal error:  Can't use function return value in write context in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/storage/framework/views/240ad130d8194533b7c923e813709e2395e66fbe.php on line 69
+[15-Jun-2022 09:47:33 UTC] PHP Fatal error:  Can't use function return value in write context in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/storage/framework/views/240ad130d8194533b7c923e813709e2395e66fbe.php on line 69
+[15-Jun-2022 09:47:51 UTC] PHP Fatal error:  Can't use function return value in write context in /home4/eoxyslqw/lifetrack.eoxysitsolutionllp.com/storage/framework/views/240ad130d8194533b7c923e813709e2395e66fbe.php on line 69
